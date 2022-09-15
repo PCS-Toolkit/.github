@@ -1,15 +1,4 @@
 ## PCS Toolkit
 
-At the MIT Plasma Science and Fusion Center, we're building a toolkit to aid in building plasma control systems.  This area holds our repositiories.  
+We're building a toolkit to aid in building plasma control systems. This area holds our repositiories. The work here is developed in collaboration among multiple institutions including the MIT Plasma Science and Fusion Center, EPFL SPC, Commonwealth Fusion Systems, and others.
 Most are starting as private while we work out bugs, but the intention is these will become open source.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
